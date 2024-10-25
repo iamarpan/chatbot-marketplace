@@ -1,0 +1,15 @@
+langchain~=0.0.352
+pypdf
+torch==2.3.1
+torchvision==0.18.1
+sentence-transformers==2.6.1
+huggingface_hub
+accelerate
+chromadb
+typing_extensions
+streamlit
+shortuuid
+flash_attn==2.5.8
+accelerate==0.31.0
+transformers==4.41.2
+
